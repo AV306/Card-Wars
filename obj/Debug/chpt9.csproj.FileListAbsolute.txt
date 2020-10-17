@@ -1,0 +1,10 @@
+C:\Users\Brandon\source\repos\chpt9\bin\Debug\chpt9.exe.config
+C:\Users\Brandon\source\repos\chpt9\bin\Debug\chpt9.exe
+C:\Users\Brandon\source\repos\chpt9\bin\Debug\chpt9.pdb
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.Form1.resources
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.Properties.Resources.resources
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.exe
+C:\Users\Brandon\source\repos\chpt9\obj\Debug\chpt9.pdb
